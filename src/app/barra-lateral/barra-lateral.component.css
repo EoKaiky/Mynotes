@@ -1,0 +1,46 @@
+.barra_lateral {
+  background-color: rgb(236, 236, 236);
+  width: 15rem;
+  height: 55.8rem;
+  position: fixed;
+}
+
+.suas_notas {
+  gap: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 60px;
+  font-family: 'Londrina Solid', cursive;
+  border: 0px;
+  background-color: rgb(236, 236, 236);;
+}
+
+.lembrete{
+  gap: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 60px;
+  font-family: 'Londrina Solid', cursive;
+  border: 0px;
+  background-color: rgb(236, 236, 236);;
+}
+
+.lixeira {
+  gap: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 60px;
+  font-family: 'Londrina Solid', cursive;
+  border: 0px;
+  background-color: rgb(236, 236, 236);;
+}
+
+.img {
+  width: 40px;
+}
